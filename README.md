@@ -55,8 +55,9 @@ email       : agungsugiarto@gmail.com
 password    : password
 ```
 # Screenshoot
-<!-- ![Image of login](public/images/login.png) -->
-| | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| ![Image of login](public/images/login.png)  Login | ![Image of Index](public/images/index.png)  Index 
-| ![Image of Index](public/images/create.png)  Create | ![Image of Index](public/images/edit.png)  Edit  | 
+|   |   |
+| ------------- | ------------- |
+| Login  |  Index |
+| ![Image of login](public/images/login.png)| ![Image of Index](public/images/index.png)|
+| Create  |  Edit |
+| ![Image of Index](public/images/create.png)| ![Image of Index](public/images/edit.png) |
